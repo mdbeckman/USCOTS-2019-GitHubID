@@ -31,7 +31,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
-
+| Mike | mdernst | <https://mdernst@github.io> |
 <br>
 
 # Integration of RStudio with Git
