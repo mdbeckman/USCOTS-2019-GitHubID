@@ -31,10 +31,10 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
+| Erik Erhardt | erikerhardt | <https://github.com/erikerhardt> |
 | Adam Sullivan | sullivanstatistics | |
 |Leigh Johnson | drleigh | |
 | Bradford | dykesb | <https://dykesb.github.io> |
-
 <br>
 
 # Integration of RStudio with Git
