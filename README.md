@@ -31,7 +31,8 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
-| Adam Sullivan | sullivanstatistics | |
+|Joe Roith | joeroith | <https://github.com/joeroith/USCOTS-2019-GitHubID> |
+
 <br>
 
 # Integration of RStudio with Git
