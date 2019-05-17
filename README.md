@@ -31,7 +31,8 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
-| Adam Sullivan | sullivanstatistics | |
+| Justin | jpetrovich02 | https://github.com/jpetrovich02 |
+
 <br>
 
 # Integration of RStudio with Git
