@@ -38,4 +38,6 @@
 
 Check this out: <http://happygitwithr.com/index.html>
 
+Thank you. 
+
 
