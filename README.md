@@ -31,6 +31,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
+| Jerzy | civilstat | another website |
 
 <br>
 
