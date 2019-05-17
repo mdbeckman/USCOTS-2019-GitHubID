@@ -31,7 +31,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
-| Jerzy | civilstat | another website |
+| Jerzy | civilstat | <https://civilstat.github.io/USCOTS-2019-test/> |
 
 <br>
 
