@@ -32,6 +32,9 @@
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
 | Jerzy | civilstat | <https://civilstat.github.io/USCOTS-2019-test/> |
+| Adam Sullivan | sullivanstatistics | |
+| Leigh Johnson | drleigh | |
+| Bradford | dykesb | <https://dykesb.github.io> |
 
 <br>
 
